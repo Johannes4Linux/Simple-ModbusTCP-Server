@@ -1,6 +1,6 @@
 # General
 
-This is the file I have used for my video about creating a Modbus TCP server in Python. Here is the [link](www.test.de) to my video.
+This is the file I have used for my video about creating a Modbus TCP server in Python. Here is the [link](https://www.youtube.com/watch?v=FYPQgnQE9fk) to my video.
 
 # Content
 
